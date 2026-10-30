@@ -12,25 +12,8 @@ An animated, responsive React experience for exploring Spider-People across the 
 - Scroll reveal, hover tilt, responsive layouts and reduced-motion support.
 - Vercel and Netlify SPA rewrite configuration included.
 
-## Run locally
-
-Use Node.js 20 or newer.
-
-```bash
-npm install
-npm run dev
-```
-
 Open the local URL shown by Vite.
-
-## Production build
-
-```bash
-npm run build
-npm run preview
-```
-
-The production output is written to `dist/`.
+live demo-http://localhost:5173/gallery
 
 ## Deploy
 
