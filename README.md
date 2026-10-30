@@ -13,7 +13,7 @@ An animated, responsive React experience for exploring Spider-People across the 
 - Vercel and Netlify SPA rewrite configuration included.
 
 Open the local URL shown by Vite.
-live demo-http://localhost:5173/gallery
+live demo-https://spidermanvarients.netlify.app
 
 ## Deploy
 
